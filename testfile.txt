@@ -1,7 +1,0 @@
-hi rajesh
-how r u?
-what about git?
-
-
-<h1>hi hyderabad</h1>
-<h1>hi bangalore</h1>
